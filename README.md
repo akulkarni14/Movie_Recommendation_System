@@ -89,7 +89,7 @@ Try searching with:
 
 
 
-##Additional Work Done:- 🎬 Movie Recommendation System – Streamlit Web App
+## 🎬 Movie Recommendation System – Streamlit Web App (Additional Work Done)
 
 This is an **interactive web-based version** of the Movie Recommendation System built using **Streamlit**.
 It extends the notebook-based assignment into a **modern UI web application** for real-time movie recommendations.
